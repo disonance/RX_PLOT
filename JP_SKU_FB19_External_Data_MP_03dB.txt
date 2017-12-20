@@ -1,0 +1,266 @@
+[Undisclosed_id]level 1
+Port A LTE Band 26 CH 8740 Rx0 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+[Undisclosed_id]level 1
+Port A LTE Band 26 CH 8740 Rx0 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+[Undisclosed_id]level 1
+Port A LTE Band 5 CH 2600 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 26 CH 8990 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 28A CH 9308 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+[Undisclosed_id]level 1
+Port A LTE Band 4 CH 2325 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 1 CH 300 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 11 CH 4800 Rx1 RSSI Level 1 QPSK [50/0]
+Port B LTE Band 1 CH 300 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 1 CH 300 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+[Undisclosed_id]level 1
+Port A LTE Band 26 CH 8740 Rx0 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 5 CH 2600 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 26 CH 8990 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+[Undisclosed_id]level 1
+Port A LTE Band 11 CH 4800 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 4 CH 2325 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 1 CH 300 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+[Undisclosed_id]level 1
+Port A LTE Band 5 CH 2600 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 26 CH 8990 Rx1 RSSI Level 1 QPSK [50/0]
+[Undisclosed_id]level 1
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 1 QPSK [50/0]
+Port B LTE Band 4 CH 2325 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 1 QPSK [50/0]
+[Undisclosed_id]level 1
+Port A LTE Band 5 CH 2600 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 26 CH 8990 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 1 QPSK [50/0]
+[Undisclosed_id]level 1
+Port A LTE Band 5 CH 2600 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 26 CH 8990 Rx1 RSSI Level 1 QPSK [50/0]
+Port A LTE Band 28A CH 9308 Rx1 RSSI Level 1 QPSK [50/0]
+[Undisclosed_id]level 2
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 2 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 2 QPSK [50/0]
+[Undisclosed_id]level 2
+Port A LTE Band 26 CH 8740 Rx0 RSSI Level 2 QPSK [50/0]
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 2 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 2 QPSK [50/0]
+[Undisclosed_id]level 2
+Port A LTE Band 28A CH 9308 Rx1 RSSI Level 2 QPSK [50/0]
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 2 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 2 QPSK [50/0]
+[Undisclosed_id]level 2
+Port A LTE Band 26 CH 8740 Rx0 RSSI Level 2 QPSK [50/0]
+Port A LTE Band 11 CH 4800 Rx1 RSSI Level 2 QPSK [50/0]
+Port B LTE Band 1 CH 300 Rx1 RSSI Level 2 QPSK [50/0]
+[Undisclosed_id]level 2
+Port A LTE Band 5 CH 2600 Rx1 RSSI Level 2 QPSK [50/0]
+Port A LTE Band 26 CH 8990 Rx1 RSSI Level 2 QPSK [50/0]
+[Undisclosed_id]level 2
+Port A LTE Band 11 CH 4800 Rx1 RSSI Level 2 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 2 QPSK [50/0]
+[Undisclosed_id]level 2
+Port A LTE Band 5 CH 2600 Rx1 RSSI Level 2 QPSK [50/0]
+Port A LTE Band 28A CH 9308 Rx1 RSSI Level 2 QPSK [50/0]
+[Undisclosed_id]level 2
+Port B LTE Band 4 CH 2325 Rx1 RSSI Level 2 QPSK [50/0]
+[Undisclosed_id]level 2
+Port A LTE Band 5 CH 2600 Rx1 RSSI Level 2 QPSK [50/0]
+Port A LTE Band 26 CH 8990 Rx1 RSSI Level 2 QPSK [50/0]
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 2 QPSK [50/0]
+[Undisclosed_id]level 2
+Port A LTE Band 28A CH 9308 Rx1 RSSI Level 2 QPSK [50/0]
+[Undisclosed_id]level 3
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 3 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 3 QPSK [50/0]
+[Undisclosed_id]level 3
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 3 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 3 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 3 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 3 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 3 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 3 QPSK [50/0]
+[Undisclosed_id]level 3
+Port A LTE Band 28A CH 9308 Rx1 RSSI Level 3 QPSK [50/0]
+Port A LTE Band 41 CH 39700 Rx1 RSSI Level 3 QPSK [50/0]
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 3 QPSK [50/0]
+[Undisclosed_id]level 3
+Port A LTE Band 11 CH 4800 Rx1 RSSI Level 3 QPSK [50/0]
+Port B LTE Band 1 CH 300 Rx1 RSSI Level 3 QPSK [50/0]
+[Undisclosed_id]level 3
+[Undisclosed_id]level 3
+Port C LTE Band 41 CH 39700 Rx1 RSSI Level 3 QPSK [50/0]
+[Undisclosed_id]level 3
+Port A LTE Band 28A CH 9308 Rx1 RSSI Level 3 QPSK [50/0]
+[Undisclosed_id]level 3
+Port B LTE Band 4 CH 2325 Rx1 RSSI Level 3 QPSK [50/0]
+[Undisclosed_id]level 3
+[Undisclosed_id]level 3
+Port A LTE Band 28A CH 9308 Rx1 RSSI Level 3 QPSK [50/0]
+[Undisclosed_id]level 4
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 4 QPSK [50/0]
+[Undisclosed_id]level 4
+Port A LTE Band 26 CH 8740 Rx0 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 4 CH 2325 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 4 CH 2350 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 1 CH 300 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 66 CH 66786 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 4 CH 2325 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 4 CH 2350 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 66 CH 66786 Rx1 RSSI Level 4 QPSK [50/0]
+[Undisclosed_id]level 4
+[Undisclosed_id]level 4
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 4 CH 2325 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 1 CH 300 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 11 CH 4900 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 66 CH 66786 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 1 CH 300 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 66 CH 66786 Rx1 RSSI Level 4 QPSK [50/0]
+[Undisclosed_id]level 4
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 4 QPSK [50/0]
+[Undisclosed_id]level 4
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 1 CH 300 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 66 CH 66786 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 4 CH 2325 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 4 CH 2350 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 1 CH 300 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 66 CH 66786 Rx1 RSSI Level 4 QPSK [50/0]
+[Undisclosed_id]level 4
+[Undisclosed_id]level 4
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 4 CH 2325 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 4 CH 2350 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 1 CH 300 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 4 QPSK [50/0]
+Port A LTE Band 66 CH 66786 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 4 CH 2325 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 4 CH 2350 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 1 CH 300 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 66 CH 66786 Rx1 RSSI Level 4 QPSK [50/0]
+[Undisclosed_id]level 4
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 4 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 4 QPSK [50/0]
+[Undisclosed_id]level 4
+[Undisclosed_id]level 5
+[Undisclosed_id]level 5
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 4 CH 2325 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 4 CH 2350 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 1 CH 300 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 66 CH 66786 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 4 CH 2350 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 66 CH 66786 Rx1 RSSI Level 5 QPSK [50/0]
+[Undisclosed_id]level 5
+Port A LTE Band 20 CH 6400 Rx1 RSSI Level 5 QPSK [50/0]
+[Undisclosed_id]level 5
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 5 QPSK [50/0]
+[Undisclosed_id]level 5
+[Undisclosed_id]level 5
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 1 CH 300 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 66 CH 66786 Rx1 RSSI Level 5 QPSK [50/0]
+[Undisclosed_id]level 5
+Port A LTE Band 20 CH 6400 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 12 CH 5060 Rx1 RSSI Level 5 QPSK [50/0]
+[Undisclosed_id]level 5
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 5 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 5 QPSK [50/0]
+[Undisclosed_id]level 5
+Port A LTE Band 5 CH 2600 Rx1 RSSI Level 5 QPSK [50/0]
+Port A LTE Band 26 CH 8990 Rx1 RSSI Level 5 QPSK [50/0]
+[Undisclosed_id]level 5
+[Undisclosed_id]level 6
+[Undisclosed_id]level 6
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 4 CH 2325 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 4 CH 2350 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 1 CH 300 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 66 CH 66786 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 4 CH 2350 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 6 QPSK [50/0]
+[Undisclosed_id]level 6
+[Undisclosed_id]level 6
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 6 QPSK [50/0]
+[Undisclosed_id]level 6
+Port A LTE Band 20 CH 6400 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 28B CH 9533 Rx1 RSSI Level 6 QPSK [50/0]
+[Undisclosed_id]level 6
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 1 CH 300 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 66 CH 66786 Rx1 RSSI Level 6 QPSK [50/0]
+[Undisclosed_id]level 6
+Port A LTE Band 28B CH 9533 Rx1 RSSI Level 6 QPSK [50/0]
+[Undisclosed_id]level 6
+Port A LTE Band 4 CH 2000 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 1 CH 50 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 66 CH 66486 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 4 CH 2000 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 1 CH 50 Rx1 RSSI Level 6 QPSK [50/0]
+Port C LTE Band 66 CH 66486 Rx1 RSSI Level 6 QPSK [50/0]
+[Undisclosed_id]level 6
+Port A LTE Band 28A CH 9409 Rx1 RSSI Level 6 QPSK [50/0]
+Port A LTE Band 28B CH 9533 Rx1 RSSI Level 6 QPSK [50/0]
+[Undisclosed_id]level 6

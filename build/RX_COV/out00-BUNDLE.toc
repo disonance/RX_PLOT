@@ -1,0 +1,3 @@
+([('RX_COV',
+   '/Users/dennisngsze_yang/PycharmProjects/RX_COV_PLOT/dist/RX_COV',
+   'EXECUTABLE')],)
